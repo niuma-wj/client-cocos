@@ -1,0 +1,12 @@
+{
+  "name": "ClientCocos",
+  "uuid": "6c19c7ab-5fbc-4a4b-8998-5dfa69c74f6b",
+  "creator": {
+    "version": "3.8.7"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "js-base64": "^3.7.8",
+    "msgpack-lite": "^0.1.26"
+  }
+}
