@@ -29245,7 +29245,7 @@
   {
     "__type__": "cc.Node",
     "_name": "DesktopUI",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1
@@ -29332,7 +29332,7 @@
   {
     "__type__": "cc.Node",
     "_name": "GradePointBoard",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -29395,7 +29395,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Red",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1224
@@ -29557,7 +29557,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Blue",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1224
@@ -29719,7 +29719,7 @@
   {
     "__type__": "cc.Node",
     "_name": "IndicatorRed",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1224
@@ -29855,7 +29855,7 @@
   {
     "__type__": "cc.Node",
     "_name": "IndicatorBlue",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1224
@@ -30077,7 +30077,7 @@
   {
     "__type__": "cc.Node",
     "_name": "GradePointGroup",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -30131,7 +30131,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Text",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1254
@@ -30379,7 +30379,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PlayerTop",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -30445,7 +30445,7 @@
   {
     "__type__": "cc.Node",
     "_name": "LeftCardNum",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1266
@@ -30607,7 +30607,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Head",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1266
@@ -30670,7 +30670,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Mask",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1273
@@ -30727,7 +30727,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Sprite",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1274
@@ -30971,7 +30971,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Ready",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1273
@@ -31107,7 +31107,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Offline",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1273
@@ -31243,7 +31243,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Auto",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1273
@@ -31465,7 +31465,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Nickname",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1266
@@ -31627,7 +31627,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Gold",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1266
@@ -31681,7 +31681,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Coin",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1317
@@ -31817,7 +31817,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Text",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1317
@@ -32020,7 +32020,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Chat",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1266
@@ -32080,7 +32080,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatMeme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1333
@@ -32134,7 +32134,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Meme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1334
@@ -32353,7 +32353,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatText",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1333
@@ -32410,7 +32410,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Label",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1346
@@ -32680,7 +32680,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatEmoji",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1333
@@ -32816,7 +32816,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatTalk",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1333
@@ -33120,7 +33120,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PlayerLeft",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -33186,7 +33186,7 @@
   {
     "__type__": "cc.Node",
     "_name": "LeftCardNum",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1382
@@ -33348,7 +33348,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Head",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1382
@@ -33411,7 +33411,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Mask",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1389
@@ -33468,7 +33468,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Sprite",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1390
@@ -33712,7 +33712,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Ready",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1389
@@ -33848,7 +33848,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Offline",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1389
@@ -33984,7 +33984,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Auto",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1389
@@ -34206,7 +34206,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Nickname",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1382
@@ -34368,7 +34368,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Gold",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1382
@@ -34422,7 +34422,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Coin",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1433
@@ -34558,7 +34558,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Text",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1433
@@ -34761,7 +34761,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Chat",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1382
@@ -34821,7 +34821,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatMeme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1449
@@ -34875,7 +34875,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Meme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1450
@@ -35094,7 +35094,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatText",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1449
@@ -35151,7 +35151,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Label",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1462
@@ -35421,7 +35421,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatEmoji",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1449
@@ -35557,7 +35557,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatTalk",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1449
@@ -35861,7 +35861,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PlayerRight",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -35927,7 +35927,7 @@
   {
     "__type__": "cc.Node",
     "_name": "LeftCardNum",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1498
@@ -36089,7 +36089,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Head",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1498
@@ -36152,7 +36152,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Mask",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1505
@@ -36209,7 +36209,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Sprite",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1506
@@ -36453,7 +36453,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Ready",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1505
@@ -36589,7 +36589,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Offline",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1505
@@ -36725,7 +36725,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Auto",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1505
@@ -36947,7 +36947,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Nickname",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1498
@@ -37109,7 +37109,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Gold",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1498
@@ -37163,7 +37163,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Coin",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1549
@@ -37299,7 +37299,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Text",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1549
@@ -37502,7 +37502,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Chat",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1498
@@ -37562,7 +37562,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatMeme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1565
@@ -37616,7 +37616,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Meme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1566
@@ -37835,7 +37835,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatText",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1565
@@ -37892,7 +37892,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Label",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1578
@@ -38162,7 +38162,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatEmoji",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1565
@@ -38298,7 +38298,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatTalk",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1565
@@ -38606,7 +38606,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PlayerBottom",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -38675,7 +38675,7 @@
   {
     "__type__": "cc.Node",
     "_name": "LeftCardNum",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1614
@@ -38837,7 +38837,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Head",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1614
@@ -38900,7 +38900,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Mask",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1621
@@ -38957,7 +38957,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Sprite",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1622
@@ -39201,7 +39201,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Ready",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1621
@@ -39337,7 +39337,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Offline",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1621
@@ -39473,7 +39473,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Auto",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1621
@@ -39695,7 +39695,7 @@
   {
     "__type__": "cc.Node",
     "_name": "NicknameBg",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1614
@@ -39831,7 +39831,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Nickname",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1614
@@ -39993,7 +39993,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Gold",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1614
@@ -40050,7 +40050,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Coin",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1671
@@ -40186,7 +40186,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Text",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1671
@@ -40434,7 +40434,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Chat",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1614
@@ -40494,7 +40494,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatMeme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1689
@@ -40548,7 +40548,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Meme",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1690
@@ -40767,7 +40767,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatText",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1689
@@ -40794,7 +40794,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 0,
+      "x": -100,
       "y": 0,
       "z": 0
     },
@@ -40824,7 +40824,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Label",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1702
@@ -41094,7 +41094,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatEmoji",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1689
@@ -41230,7 +41230,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ChatTalk",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1689
@@ -41538,7 +41538,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PassBtnGroup",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -41589,7 +41589,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnPass",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1738
@@ -41839,7 +41839,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PlayBtnGroup",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -41893,7 +41893,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnPlay",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1751
@@ -42102,7 +42102,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnHint",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1751
@@ -42352,7 +42352,7 @@
   {
     "__type__": "cc.Node",
     "_name": "RefundTribute",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -42409,7 +42409,7 @@
   {
     "__type__": "cc.Node",
     "_name": "TipBubble",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1773
@@ -42463,7 +42463,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Text",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1774
@@ -42711,7 +42711,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Card",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1773
@@ -42930,7 +42930,7 @@
   {
     "__type__": "cc.Node",
     "_name": "TributeGroup",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -42984,7 +42984,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnPresent",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1797
@@ -43193,7 +43193,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnRefund",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1797
@@ -43443,7 +43443,7 @@
   {
     "__type__": "cc.Node",
     "_name": "AutoBtnGroup",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -43497,7 +43497,7 @@
   {
     "__type__": "cc.Node",
     "_name": "bg",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1819
@@ -43551,7 +43551,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Text",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1820
@@ -43916,7 +43916,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BottomBar",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -43985,7 +43985,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnBack",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1840
@@ -44194,7 +44194,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnShowDesktop",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1840
@@ -44381,7 +44381,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnVoice",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1840
@@ -44517,7 +44517,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnTongHuaShun",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1840
@@ -44726,7 +44726,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnColumn",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1840
@@ -44935,7 +44935,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnUndo",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1840
@@ -45230,7 +45230,7 @@
   {
     "__type__": "cc.Node",
     "_name": "UpRightPanel",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1223
@@ -45296,7 +45296,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnJPQ",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1898
@@ -45491,7 +45491,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnAuto",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1898
@@ -45700,7 +45700,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnCapture",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1898
@@ -45895,7 +45895,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BtnSetting",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1898
@@ -46104,7 +46104,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Time",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
       "__id__": 1898
