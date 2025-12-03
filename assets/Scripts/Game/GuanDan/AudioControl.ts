@@ -36,6 +36,7 @@ export class AudioControl extends Component {
     private loopTime: number = 0.0;
 
     start() {
+        this.onSoundVolumeChanged(null, null);
         ResourceLoader.Instance.loadAsset("GuanDanAudio", "bg", AudioClip, (clip: AudioClip) => {
             Client.Instance.playBackgroundMusic(clip);
         });
@@ -263,5 +264,21 @@ export class AudioControl extends Component {
                 this.gameSources[clientSeat].play();
             }
         });
+    }
+
+    public onSoundVolumeChanged(event: Event, customEventData: any | null) {
+        let volume: number = GameManager.Instance.SoundVolume;
+        if (GameManager.Instance.SoundMute)
+            volume = 0;
+        for (let i: number = 0; i < this.gameSources.length; i++) {
+            let src: AudioSource = this.gameSources[i];
+            if (src) src.volume = volume;
+        }
+        for (let i: number = 0; i < this.phraseSources.length; i++) {
+            let src: AudioSource = this.phraseSources[i];
+            if (src) src.volume = volume;
+        }
+        if (this.shareSource) this.shareSource.volume = volume;
+        if (this.loopSource) this.loopSource.volume = volume;
     }
 }
