@@ -23,6 +23,8 @@ npm install
 注意，在使用 Cocos Creator 打开项目之前，先执行 npm install，然再使用 Cocos Creator 打开项目，否则会报如下图的错误，如已报该错误，解决办法是退出 Cocos Creator 编辑器，并删除项目根目录下的 library 和 temp 文件夹，再使用 Cocos Creator 打开项目，错误不再出现。\
 ![报错](https://github.com/niuma-wj/data/blob/main/cocoserror.jpg?raw=true)
 
+Cocos 环境的客户端尚未支持发送语音功能，仅支持接收语音功能。
+
 # H5 游戏截图
 
 ![图1](https://github.com/niuma-wj/data/blob/main/h5screen1.jpg?raw=true)\
