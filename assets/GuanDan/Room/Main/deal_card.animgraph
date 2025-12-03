@@ -100,8 +100,8 @@
       "name": "",
       "id": "4c16aa77-6194-4035-9d27-e9195d86c3fa",
       "clone": null,
-      "centerX": 125,
-      "centerY": 0
+      "centerX": 97.54901960784309,
+      "centerY": -32.35294117647059
     },
     "name": "Any"
   },
@@ -193,7 +193,7 @@
     "endEventBinding": {
       "__id__": 15
     },
-    "duration": 0.3
+    "duration": 0
   },
   {
     "__type__": "cc.animation.TriggerCondition",
@@ -225,10 +225,10 @@
     "endEventBinding": {
       "__id__": 18
     },
-    "duration": 0.3,
+    "duration": 0,
     "relativeDuration": false,
-    "exitConditionEnabled": false,
-    "_exitCondition": 0
+    "exitConditionEnabled": true,
+    "_exitCondition": 1
   },
   {
     "__type__": "cc.animation.AnimationGraphEventBinding",
@@ -240,6 +240,6 @@
   },
   {
     "__type__": "cc.animation.TriggerVariable",
-    "_flags": 0
+    "_flags": 2
   }
 ]
