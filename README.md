@@ -20,7 +20,8 @@ npm install
 
 # 说明
 
-Cocos Creator 刚加载项目的时候，可能无法识别 node_modules 文件夹内的第三方库，但一段时间后就自动能识别了，具体原因尚未知，有知道原因的望不吝赐教，感谢！
+注意，在使用 Cocos Creator 打开项目之前，先执行 npm install，然再使用 Cocos Creator 打开项目，否则会报如下图的错误，如已报该错误，解决办法是退出 Cocos Creator 编辑器，并删除项目根目录下的 library 和 temp 文件夹，再使用 Cocos Creator 打开项目，错误不再出现。\
+![报错](https://github.com/niuma-wj/data/blob/main/cocoserror.jpg?raw=true)\
 
 # H5 游戏截图
 
